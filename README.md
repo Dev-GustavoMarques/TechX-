@@ -10,7 +10,7 @@ Falta de um lugar único e confiável para escolher onde comer com base em avali
 
 Solução proposta
 
-Site com busca por nome/local, filtros (culinária, preço, avaliação, distância), categorias em destaque, recomendações ordenáveis e avaliações reais de usuários (nota, comentário, restaurante).
+Site com busca por nome/local, filtros (culinária, preço, avaliação, distância), categorias em destaque, recomendações ordenáveis e avaliações de usuários (nota, comentário, restaurante).
 
 Link do projeto no FIGMA 
 
@@ -19,5 +19,7 @@ https://www.figma.com/make/9NUyJM7jVcxYVPUHnbxNLs/Restaurant-Review-App-Design?c
 Nomes e RAs
 
 Luis Gustavo Marques dos Santos 199949
+
 Larissa Gabrielle Da Silva França 101262
+
 Thayla Lavinia França Santos 199005
