@@ -10,3 +10,7 @@ Falta de um lugar único e confiável para escolher onde comer com base em avali
 3. Solução proposta
 
 Site com busca por nome/local, filtros (culinária, preço, avaliação, distância), categorias em destaque, recomendações ordenáveis e avaliações reais de usuários (nota, comentário, restaurante).
+
+
+Link do projeto no FIGMA 
+
