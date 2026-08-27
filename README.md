@@ -1,4 +1,5 @@
 RestoGuide
+
 Sobre o projeto
 
 Plataforma web para buscar e descobrir restaurantes por tipo de comida, localização, preço e avaliação. Conta com login e sistema de avaliações de usuários.
@@ -17,5 +18,5 @@ https://www.figma.com/make/9NUyJM7jVcxYVPUHnbxNLs/Restaurant-Review-App-Design?c
 
 Nomes e RAs
 
-Luis Gustavo Marques dos Santos 199949.
+Luis Gustavo Marques dos Santos 199949
 Larissa Gabrielle Da Silva França 101262
